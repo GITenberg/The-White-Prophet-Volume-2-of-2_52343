@@ -1,5 +1,5 @@
 _repo: The-White-Prophet-Volume-2-of-2_52343
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Woodville, Richard Caton
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1927
     gutenberg_agent_id: '40001'
     url: http://www.gutenberg.org/2009/agents/40001
+covers:
+- cover_type: archival
+  image_path: 52343-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Caine, Hall, Sir
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/591
     wikipedia: http://en.wikipedia.org/wiki/Hall_Caine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52343#The-White-Prophet-Volume-2-of-2
 gutenberg_issued: '2016-06-15'
 gutenberg_type: Text
 identifiers:
